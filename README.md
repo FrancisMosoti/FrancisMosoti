@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: +254712514102
 
-- ⚡ Fun fact: I always close windows after coding because I fear bugs my enter to my code
+- ⚡ Fun fact: I always close windows after coding because I fear bugs may enter into my code
 
 <hr>
