@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francismosoti&label=Profile%20views&color=0e75b6&style=flat" alt="francismosoti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francismosoti" alt="francismosoti" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/francis_mosoti_" target="blank"><img src="https://img.shields.io/twitter/follow/francis_mosoti_?logo=twitter&style=for-the-badge" alt="francis_mosoti_" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
@@ -27,4 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francismosoti&show_icons=true&locale=en&layout=compact" alt="francismosoti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francismosoti&show_icons=true&locale=en" alt="francismosoti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francismosoti&" alt="francismosoti" /></p>
+
 
