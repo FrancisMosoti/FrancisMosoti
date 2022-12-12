@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Javascript and C++**
 
+- 🌱 My portfolio : **https://francismosoti.netlify.app/**
+
 - 📫 How to reach me **francismosoti20@gmail.com**
 
 - ⚡ Fun fact **You can spell the word typewriter using the top line of letters on a computer’s keyboard**
