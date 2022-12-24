@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/francis_mosoti_" target="blank"><img src="https://img.shields.io/twitter/follow/francis_mosoti_?logo=twitter&style=for-the-badge" alt="francis_mosoti_" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning -> **Javascript**
 
-- 💬 Ask me about **Javascript and C++**
+- 💬 Ask me about : **Javascript and C++**
 
 - 🌱 My portfolio : **https://francismosoti.netlify.app/**
 
-- 📫 How to reach me **francismosoti20@gmail.com**
+- 📫 How to reach me : **francismosoti20@gmail.com / +254712514102**
 
-- ⚡ Fun fact **You can spell the word typewriter using the top line of letters on a computer’s keyboard**
+- ⚡  **Java developers wear glasses because they can't C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
