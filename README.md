@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **francismosoti20@gmail.com / +254712514102**
 
-- ⚡ Programmer pun : **Java developers wear glasses because they can't C#**
+- ⚡ Programmer pun : [ **Java developers wear glasses because they can't C#** ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
