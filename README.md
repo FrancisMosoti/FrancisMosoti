@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning -> **Javascript**
 
-- 💬 Ask me about : **Javascript and C++**
+- 💬 Ask me about : **Javascript and PHP**
 
 - 🌱 My portfolio : **https://francismosoti.netlify.app/**
 
