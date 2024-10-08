@@ -9,7 +9,7 @@
 
 - 💬 Ask me about : **Javascript and PHP**
 
-- 🌱 My portfolio : **https://francismosoti.netlify.app/**
+- 🌱 My portfolio : **https://beewise.netlify.app/**
 
 - 📫 How to reach me : **francismosoti20@gmail.com / +254712514102**
 
