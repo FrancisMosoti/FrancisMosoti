@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Francis Mosoti</h1>
 <h3 align="center">A passionate Full Stack Developer and Computer Scientist</h3>
 
-<div> 
-  <h3 align="center"> ✍️ Random Dev Quote </h3>
+<div > 
+  <h3 align=""> ✍️ Random Dev Quote </h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
-- 🌱 **Currently diving into**: `Typescript`, and `Flutter` 🚀  
-- 💬 **Ask me about**: Web development, especially `JavaScript` & `PHP` — happy to help!  
-- 🌐 **Check out my portfolio**: [**PoaTeQ Technology Solutions**](https://beewise.netlify.app/)   
-- 📫 **Reach me at**:  
-  ✉️ francismosoti20@gmail.com  
-  📱 +254 712 514 102  
-- ⚡ **Dev joke of the day**:  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=dev" alt="Random Dev Quote" />
+### 📫 How to Reach Me
+
+- 🌐 **Portfolio**: [beewise.netlify.app](https://beewise.netlify.app/)
+- ✉️ **Email**: francismosoti20@gmail.com
+- 📱 **Phone**: +254 712 514 102
 
 
 
