@@ -8,7 +8,7 @@
 
 ### 📫 How to Reach Me
 
-- 🌐 **Portfolio**: [BeeWise.com](https://beewise.netlify.app/)
+- 🌐 **Portfolio**: [BeeWiseTech.com](https://beewise.netlify.app/)
 - ✉️ **Email**: francismosoti20@gmail.com
 - 📱 **Phone**: +254 712 514 102
 
